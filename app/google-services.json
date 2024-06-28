@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "330846039378",
+    "project_id": "andstulogin",
+    "storage_bucket": "andstulogin.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:330846039378:android:77ed620d5079b5aa5bde8b",
+        "android_client_info": {
+          "package_name": "com.example.login"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDrwtKhBpKmehnZ6TB7XMV252sCXupzXwo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

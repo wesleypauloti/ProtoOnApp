@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">Proto-On</string>
+    <string name="entrar">Entrar</string>
+    <string name="cadastrar">Cadastrar</string>
+    <string name="text_cadastro">Crie uma conta clicando aqui</string>
+    <string name="voltar">Voltar</string>
+    <string name="fill_name">Preencha o Nome</string>
+    <string name="fill_email">Preencha o Email</string>
+    <string name="fill_password">Preencha a Senha</string>
+    <string name="password_mismatch">Senhas não correspondem</string>
+    <string name="invalid_email_format">Email Inválido</string>
+    <string name="signup_success">Cadastro Feito com Sucesso</string>
+    <string name="register_success">Registro Feito com Sucesso</string>
+    <string name="min_name_length">O nome deve ter pelo menos 3 caracteres para o nome.</string>
+    <string name="no_digits_in_name">O nome não pode conter números.</string>
+    <string name="min_password_length">A senha deve ter pelo menos 6 caracteres.</string>
+    <string name="invalid_email">Email inválido</string>
+    <string name="succesLogin">Sucesso ao logar</string>
+    <string name="failLogin">Falha ao Logar</string>
+
+
+    <string-array name="problema_options">
+        <item>Buraco</item>
+        <item>Iluminação</item>
+        <item>Esgoto</item>
+        <item>Entulho</item>
+        <item>Barulho</item>
+        <item>Maus Tratos</item>
+        <item>Vandalismo</item>
+        <item>Alagamento</item>
+        <item>Árvore</item>
+        <item>Outros</item>
+    </string-array>
+
+
+</resources>
